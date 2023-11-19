@@ -1,0 +1,22 @@
+*{
+    width: 100%; /* Adjust the width as needed */
+    height: 100%; /* Adjust the height as needed */
+    border-radius: 20px; /* Adjust the border-radius to control the roundness of the corners */
+    overflow: hidden; 
+}
+  .buttons a:not(:last-child) {
+    margin-right: 15px;
+  }
+  
+  .buttons .join {
+    background-color: #47b2e4;
+  }
+  
+  .buttons{
+    border: 1px solid #fff;
+    border-radius: 0.375rem;
+  }
+  
+  .buttons a:hover {
+    background-color: #47b2e4;
+  }
